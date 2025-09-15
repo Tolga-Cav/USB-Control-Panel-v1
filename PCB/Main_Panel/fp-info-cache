@@ -1,4 +1,4 @@
-26636367734133180
+26646912696551315
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56924,12 +56924,54 @@ connector Zhaoxing VH vertical
 12
 11
 Control_Panel_Footprints
+100SP4T8B13VS2REH
+16.26mm x8.13mm x 41.31mm
+Switch
+0
+7
+7
+Control_Panel_Footprints
+Heat Sink
+
+
+0
+0
+0
+Control_Panel_Footprints
+PDB12H4201103BF
+PDB12-H4201-103BF-4
+Variable Resistor
+0
+5
+5
+Control_Panel_Footprints
+PEC12R4125FN0012
+PEC12R-4125F-N0012-1
+Undefined or Miscellaneous
+0
+5
+5
+Control_Panel_Footprints
+QFN50P500X500X60-33N-D
+RGJ0032A
+Integrated Circuit
+0
+33
+33
+Control_Panel_Footprints
 RPi_Pico_SMD_TH
 Through hole straight pin header, 2x20, 2.54mm pitch, double rows
 Through hole pin header THT 2x20 2.54mm double row
 0
 86
 43
+Control_Panel_Footprints
+ULP12OAP1RSSCL1REDGRN
+ULP12OAP1RSSCL1REDGRN-1
+Switch
+0
+6
+6
 Converter_ACDC
 Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical
 ACDC-Converter, 3W, CUI PBO-3, THT https://www.cui.com/product/resource/pbo-3.pdf

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Control_Panel_Footprints")(type "KiCad")(uri "C:/Users/tolga/Documents/Repositories/Personal Projects/Sim-Control-Panel-v1.0/PCB/Symbols and Footprints/Control_Panel_Footprints.pretty")(options "")(descr ""))
+)
