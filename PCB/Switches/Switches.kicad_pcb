@@ -5081,6 +5081,18 @@
 		(layer "Edge.Cuts")
 		(uuid "f9e52308-283c-4375-8bf3-8631c38e355b")
 	)
+	(gr_text "Switch Panel: E-SWITCH 100 Series\nTolga Cavusoglu\nSeptember 2025"
+		(at 63.5 57 0)
+		(layer "F.SilkS")
+		(uuid "9487408b-9886-4a8f-9f20-3d2760f08a35")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 145.5 125.3)
 		(end 140.169895 125.3)
